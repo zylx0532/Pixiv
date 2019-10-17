@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- encoding: utf-8 -*-
-# Author:  MoeClub.org
+# Author:  ZhiQiang.Name
 
 from urllib import request
 import threading
