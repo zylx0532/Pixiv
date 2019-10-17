@@ -137,7 +137,6 @@ class pixiv:
             _task.join()
         print("\nTotal Image: ", self.num)
 
-
 if __name__ == '__main__':
     try:
         task = os.sys.argv[1]
